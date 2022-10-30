@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 👨‍💻 All of my projects are available at [https://bereketaltun.com](https://bereketaltun.com)
+- 👨‍💻 All of my projects are available at [https://yusufbereketaltun.com.tr](https://yusufbereketaltun.com.tr/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, PHP, MySQL, C#, MSSQL, GO**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ysfbaltn/**
 
-- 📄 Know about my experiences [https://bereketaltun.com](https://bereketaltun.com)
+- 📄 Know about my experiences [https://yusufbereketaltun.com.tr](https://yusufbereketaltun.com.tr/)
 
 - ⚡ Fun fact **I think I am Funny :)**
 
