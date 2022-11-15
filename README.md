@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, PHP, MySQL, C#, MSSQL, GO**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/ysfbaltn/](https://www.linkedin.com/in/altnysf/)**
+- 📫 How to reach me **[https://www.linkedin.com/in/altnysf/](https://www.linkedin.com/in/altnysf/)**
 
 - 📄 Know about my experiences [https://yusufbereketaltun.com.tr](https://yusufbereketaltun.com.tr/)
 
