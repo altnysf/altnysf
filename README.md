@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yusufbereketaltun.com.tr](https://yusufbereketaltun.com.tr/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, PHP, MySQL, C#, MSSQL, GO**
+- 💬 Ask me about **HTML, CSS, Bootstrap, PHP, Laravel, MySQL, C#, MSSQL, GO**
 
 - 📫 How to reach me **[https://www.linkedin.com/in/altnysf/](https://www.linkedin.com/in/altnysf/)**
 
